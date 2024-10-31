@@ -51,7 +51,7 @@
     <img src="https://cdn-icons-png.flaticon.com/128/15466/15466163.png" alt="Git" width="40"  height="40" title="Git">
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="40" height="40" title="GitHub">
+    <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x2048-dpporae2.png" alt="GitHub" width="40" height="40" title="GitHub">
   </a>
 </p>
 beoke/beoke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
