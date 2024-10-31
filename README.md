@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Dhafa Bintang Ramadhan</h1> 
 <h3 align="left">🌱 A student at SMKN 1 Bantul, majoring in Software Engineering.</h3>
 
-- 🚀 Currently exploring: **Mobile development with Flutter, Backend Development**
-- 📘 Looking to improve: **Backend programming and mobile app development**
+- 🚀 Currently exploring: **Mobile development with Flutter, Front end Development**
+- 📘 Looking to improve: **Front end programming and mobile app development**
 - 📫 How to reach me: **dhafabintangr20@gmail.com**
 
 <h3 align="left">Connect with me:</h3> 
