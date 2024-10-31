@@ -3,11 +3,11 @@
 
 - 🚀 Currently exploring: **Mobile development with Flutter, Front end Development**
 - 📘 Looking to improve: **Front end programming and mobile app development**
-- 📫 How to reach me: **lathifnurhidayat80@gmail.com**
+- 📫 How to reach me: **dhafabintangr20@gmail.com**
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
-  <a href="https://instagram.com/lathf.nyx" target="blank">
+  <a href="https://www.instagram.com/dhapp_/profilecard/?igsh=MXJrOW4xcXZwcm5xeA==" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhapp_" height="30" width="40" title="Instagram"/>
   </a> 
 </p> 
