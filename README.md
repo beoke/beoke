@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Dhafa Bintang Ramadhan</h1> 
 <h3 align="left">🌱 A student at SMKN 1 Bantul, majoring in Software Engineering.</h3>
 
-- 🚀 Currently exploring: **Mobile development with Flutter, Front end Development**
-- 📘 Looking to improve: **Front end programming and mobile app development**
+- 🚀 Currently exploring: **Mobile development with Flutter, Backend Development**
+- 📘 Looking to improve: **Backend programming and mobile app development**
 - 📫 How to reach me: **dhafabintangr20@gmail.com**
 
 <h3 align="left">Connect with me:</h3> 
@@ -44,8 +44,8 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" title="MySql"/> 
   </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" title="PHP"/> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction" target="_blank" rel="noreferrer"> 
+    <img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Emblem.png" alt="php" width="70" height="40" title="PHP"/> 
   </a> 
   <a href="https://git-scm.com/downloads" terget="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/128/15466/15466163.png" alt="Git" width="40"  height="40" title="Git">
